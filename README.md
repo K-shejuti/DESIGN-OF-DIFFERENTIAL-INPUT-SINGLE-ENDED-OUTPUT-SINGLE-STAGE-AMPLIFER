@@ -1,1 +1,1 @@
-# Design-and-simulation-of-single stage operational amplifier
+# DESIGN OF DIFFERENTIAL INPUT SINGLE ENDED OUTPUT SINGLE STAGE AMPLIFER
