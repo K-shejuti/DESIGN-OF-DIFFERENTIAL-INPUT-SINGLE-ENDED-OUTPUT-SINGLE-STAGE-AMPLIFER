@@ -33,7 +33,7 @@ The freqency response is shown below:
 
 ### 3. Simulations:
 
-From the Simulation we can observe that the gain of the circuit is approximately 36db and gain bandwidth product is approximately 4.44KHz, which are very near to our design specifications.
+From the Simulation we can observe that the gain of the circuit is approximately 36db and gain bandwidth product is approximately 4.44MHz, which are very near to our design specifications.
 
 
 
