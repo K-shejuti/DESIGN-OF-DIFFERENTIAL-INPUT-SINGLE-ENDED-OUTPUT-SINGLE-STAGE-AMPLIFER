@@ -1,1 +1,1 @@
-# Design-and-simulation-of-differential-amplifier with active load
+# Design-and-simulation-of-single stage operational amplifier
